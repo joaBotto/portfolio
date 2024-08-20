@@ -1,0 +1,26 @@
+.App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .hero {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .about {
+    padding: 20px;
+  }
+  
+  .skills {
+    padding: 20px;
+  }
+  
+  .projects {
+    padding: 20px;
+  }
+  
+  .contact {
+    padding: 20px;
+  }
